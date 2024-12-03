@@ -2,16 +2,16 @@
 
 A quick-start Angular project that shows how to use text editing options in the Angular Word Processor component. This project contains code to perform common font formatting and paragraph formatting options, and insert headers, footers, and a table of contents.
 
-Refer to the following text formatting documentation for the Syncfusion Angular Word Processor component: 
+Refer to the following text formatting documentation for the Syncfusion&reg; Angular Word Processor component: 
 https://ej2.syncfusion.com/angular/documentation/document-editor/text-format
 
-Refer to the following paragraph formatting documentation for the Syncfusion Angular Word Processor component: 
+Refer to the following paragraph formatting documentation for the Syncfusion&reg; Angular Word Processor component: 
 https://ej2.syncfusion.com/angular/documentation/document-editor/paragraph-format 
 
-Refer to the following list formatting documentation for the Syncfusion Angular Word Processor component: 
+Refer to the following list formatting documentation for the Syncfusion&reg; Angular Word Processor component: 
 https://ej2.syncfusion.com/angular/documentation/document-editor/list-format
 
-Check out this online example of text editing in the Syncfusion Angular Word Processor component:
+Check out this online example of text editing in the Syncfusion&reg; Angular Word Processor component:
 https://ej2.syncfusion.com/angular/demos/#/material3/document-editor/character-formatting 
 
 Watch the following video to get started with the Angular Word Processor component:
